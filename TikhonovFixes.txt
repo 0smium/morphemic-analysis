@@ -1,0 +1,97 @@
+письмецо	пись:ROOT/м:ROOT/ец:SUFF/о:END
+пыльцесмесь	пыль:ROOT/ц:ROOT/е:LINK/с:PREF/месь:ROOT
+почвоухудшающий	почв:ROOT/о:LINK/у:PREF/худ:ROOT/ш:ROOT/а:SUFF/ющ:SUFF/ий:END
+медвежоночек	медвеж:ROOT/оноч:ROOT/ек:SUFF
+бочоночек	боч:ROOT/оноч:ROOT/ек:SUFF
+девчоночка	дев:ROOT/ч:SUFF/оноч:ROOT/к:SUFF/а:END
+бочоночный	боч:ROOT/оноч:ROOT/н:SUFF/ый:END
+
+двухдюймовка	дв:ROOT/ух:ROOT/дюйм:ROOT/ов:SUFF/к:SUFF/а:END
+двухкилометровый	дв:ROOT/ух:ROOT/кило:ROOT/метр:ROOT/ов:SUFF/ый:END
+двухфунтовый	дв:ROOT/ух:ROOT/фунт:ROOT/ов:SUFF/ый:END
+двухсоттысячный	дв:ROOT/ух:ROOT/сот:ROOT/тысяч:ROOT/н:SUFF/ый:END
+двухколейный	дв:ROOT/ух:ROOT/колей:ROOT/н:SUFF/ый:END
+двухствольный	дв:ROOT/ух:ROOT/стволь:ROOT/н:SUFF/ый:END
+двухрядный	дв:ROOT/ух:ROOT/ряд:ROOT/н:SUFF/ый:END
+двухярусный	дв:ROOT/ух:ROOT/ярус:ROOT/н:SUFF/ый:END
+двадцатидвухлетний	дв:ROOT/а:SUFF/дцат:ROOT/и:SUFF/дв:ROOT/ух:ROOT/лет:ROOT/н:SUFF/ий:END
+двухлитровый	дв:ROOT/ух:ROOT/литр:ROOT/ов:SUFF/ый:END
+двухдюймовый	дв:ROOT/ух:ROOT/дюйм:ROOT/ов:SUFF/ый:END
+двухтомник	дв:ROOT/ух:ROOT/том:ROOT/ник:SUFF
+двухмесячник	дв:ROOT/ух:ROOT/месяч:ROOT/ник:SUFF
+двухверстка	дв:ROOT/ух:ROOT/верст:ROOT/к:SUFF/а:END
+двухлемешный	дв:ROOT/ух:ROOT/лемеш:ROOT/н:SUFF/ый:END
+двухигольный	дв:ROOT/ух:ROOT/иголь:ROOT/н:SUFF/ый:END
+двухсотлетний	дв:ROOT/ух:ROOT/сот:ROOT/лет:ROOT/н:SUFF/ий:END
+двухзональный	дв:ROOT/ух:ROOT/зон:ROOT/альн:SUFF/ый:END
+двухоконный	дв:ROOT/ух:ROOT/окон:ROOT/н:SUFF/ый:END
+двухкамерный	дв:ROOT/ух:ROOT/камер:ROOT/н:SUFF/ый:END
+двухпалубный	дв:ROOT/ух:ROOT/палуб:ROOT/н:SUFF/ый:END
+двухсторонность	дв:ROOT/ух:ROOT/сторон:ROOT/н:SUFF/ость:SUFF
+двухместный	дв:ROOT/ух:ROOT/мест:ROOT/н:SUFF/ый:END
+двухполюсный	дв:ROOT/ух:ROOT/полюс:ROOT/н:SUFF/ый:END
+двухбайтовый	дв:ROOT/ух:ROOT/байт:ROOT/ов:SUFF/ый:END
+двухпроводной	дв:ROOT/ух:ROOT/про:PREF/вод:ROOT/н:SUFF/ой:END
+двухзвеньевой	дв:ROOT/ух:ROOT/звень:ROOT/ев:SUFF/ой:END
+двухкомплектный	дв:ROOT/ух:ROOT/комплект:ROOT/н:SUFF/ый:END
+двухгодичный	дв:ROOT/ух:ROOT/год:ROOT/ичн:SUFF/ый:END
+двухпалатный	дв:ROOT/ух:ROOT/палат:ROOT/н:SUFF/ый:END
+двухдисковый	дв:ROOT/ух:ROOT/диск:ROOT/ов:SUFF/ый:END
+двухтактный	дв:ROOT/ух:ROOT/такт:ROOT/н:SUFF/ый:END
+двухосный	дв:ROOT/ух:ROOT/ос:ROOT/н:SUFF/ый:END
+двухатомный	дв:ROOT/ух:ROOT/атом:ROOT/н:SUFF/ый:END
+двухбатальонный	дв:ROOT/ух:ROOT/батальон:ROOT/н:SUFF/ый:END
+двухтысячный	дв:ROOT/ух:ROOT/тысяч:ROOT/н:SUFF/ый:END
+двухпольный	дв:ROOT/ух:ROOT/поль:ROOT/н:SUFF/ый:END
+двухкилометровка	дв:ROOT/ух:ROOT/кило:ROOT/метр:ROOT/ов:SUFF/к:SUFF/а:END
+двухстволка	дв:ROOT/ух:ROOT/ствол:ROOT/к:SUFF/а:END
+двухбалльный	дв:ROOT/ух:ROOT/балль:ROOT/н:SUFF/ый:END
+двухкаскадный	дв:ROOT/ух:ROOT/каскад:ROOT/н:SUFF/ый:END
+двухадресный	дв:ROOT/ух:ROOT/адрес:ROOT/н:SUFF/ый:END
+двухметровый	дв:ROOT/ух:ROOT/метр:ROOT/ов:SUFF/ый:END
+двухколенный	дв:ROOT/ух:ROOT/колен:ROOT/н:SUFF/ый:END
+двухнедельный	дв:ROOT/ух:SUFF/недель:ROOT/н:SUFF/ый:END
+двухкилограммовый	дв:ROOT/ух:ROOT/кило:ROOT/грамм:ROOT/ов:SUFF/ый:END
+двухполотенный	дв:ROOT/ух:ROOT/полотен:ROOT/н:SUFF/ый:END
+двухсотый	дв:ROOT/ух:ROOT/сот:ROOT/ый:END
+и т.д. (все слова, начинающиеся с "двух", "трех", "четырех")
+
+втузовка	в:ROOT/т:ROOT/у:ROOT/з:ROOT/ов:SUFF/к:SUFF/а:END
+камышовка	камыш:ROOT/овк:ROOT/а:END
+разъезживаться	разъ:ROOT/езж:ROOT/ива:SUFF/ть:SUFF/ся:POSTFIX
+разъесть	разъ:ROOT/ес:ROOT/ть:SUFF
+разъезжать	разъ:ROOT/езж:ROOT/а:SUFF/ть:SUFF
+разъевшийся	разъ:ROOT/е:SUFF/вш:SUFF/ий:SUFF/ся:POSTFIX 
+(и др. с приставкой "разъ")
+
+высокопреосвященство	высок:ROOT/о:LINK/пре:ROOT/о:LINK/свящ:ROOT/ен:SUFF/ств:SUFF/о:END
+времяпрепровождение	врем:ROOT/я:SUFF/пре:ROOT/про:PREF/вожд:ROOT/ени:SUFF/е:END
+по-рыбачьи	по:PREF/-:HYPH/рыб:ROOT/ачь:ROOT/и:END
+по-девичьи	по:PREF/-:HYPH/дев:ROOT/ичь:ROOT/и:END
+девичья	дев:ROOT/ичь:ROOT/я:END
+гулянка	гул:ROOT/я:SUFF/нк:ROOT/а:END
+велостоянка	вел:ROOT/о:LINK/сто:ROOT/я:SUFF/нк:ROOT/а:END
+
+мочеиспускательный	моч:ROOT/е:LINK/ис:ROOT/пуск:ROOT/а:SUFF/тельн:SUFF/ый:END
+трактороиспользование	трактор:ROOT/о:LINK/ис:ROOT/польз:ROOT/ова:SUFF/ни:SUFF/е:END
+лучеиспускание	луч:ROOT/е:LINK/ис:ROOT/пуск:ROOT/а:SUFF/ни:SUFF/е:END
+свежеиспеченный	свеж:ROOT/е:LINK/ис:ROOT/печ:ROOT/енн:SUFF/ый:END
+времяисчисление	врем:ROOT/я:SUFF/ис:ROOT/числ:ROOT/ени:SUFF/е:END
+лучеиспускательный	луч:ROOT/е:LINK/ис:ROOT/пуск:ROOT/а:SUFF/тельн:SUFF/ый:END
+легкоиспаряющийся	легк:ROOT/о:LINK/ис:ROOT/пар:ROOT/я:SUFF/ющ:SUFF/ий:SUFF/ся:POSTFIX
+волисполком	вол:ROOT/ис:ROOT/пол:ROOT/ком:SUFF
+неудобоисполнимый	не:PREF/удоб:ROOT/о:LINK/ис:ROOT/полн:ROOT/им:SUFF/ый:END
+ветроиспользование	ветр:ROOT/о:LINK/ис:ROOT/польз:ROOT/ова:SUFF/ни:SUFF/е:END
+крайисполком	край:ROOT/ис:ROOT/пол:ROOT/ком:SUFF
+лучеиспускающий	луч:ROOT/е:LINK/ис:ROOT/пуск:ROOT/а:SUFF/ющ:SUFF/ий:END
+мочеиспускание	моч:ROOT/е:LINK/ис:ROOT/пуск:ROOT/а:SUFF/ни:SUFF/е:END
+новоиспеченный	нов:ROOT/о:LINK/ис:ROOT/печ:ROOT/енн:SUFF/ый:END
+удобоисполнимый	удоб:ROOT/о:LINK/ис:ROOT/полн:ROOT/им:SUFF/ый:END
+быстроиспаряющийся	быстр:ROOT/о:LINK/ис:ROOT/пар:ROOT/я:SUFF/ющ:SUFF/ий:SUFF/ся:POSTFIX
+
+головенка	голов:ROOT/енк:ROOT/а:END
+лошаденка	лошад:ROOT/енк:ROOT/а:END
+горенка	гор:ROOT/енк:ROOT/а:END
+монашенка	монаш:ROOT/енк:ROOT/а:END
+силенка	сил:ROOT/енк:ROOT/а:END
+(и др. с суффиксом "енк")
